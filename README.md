@@ -1,7 +1,7 @@
 # DEVBLOG
 
 
-A forked repository for deploying after customizing, not the original repostoriy. Use the MIT License of original repository.
+A forked repository for deploying after customizing, not the original repository. Use the MIT License of original repository.
 
 
 
